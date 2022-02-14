@@ -40,5 +40,10 @@ ImagePicker(
 ## Just a Points
 It is better to provide the list of image Uris as a parameter for the function. so you can move the logic of finding Uris in you *view model* and pass it as a parameter to the *ImagePicker* composable.
 
-## here you can see some screenshot of the result:
-
+## Screenshots
+<div>
+    <img width="200" height="400" src="https://i.ibb.co/5FVJpc8/image.png">
+    <img width="200" height="400" src="https://i.ibb.co/CQ1f762/1.png">
+    <img width="200" height="400" src="https://i.ibb.co/2hPWvJr/2.png">
+    <img width="200" height="400" src="https://i.ibb.co/VLjsdbb/3.png">
+</div>
